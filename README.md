@@ -49,5 +49,3 @@ If you’re working on biomass modeling or machine learning for energy systems, 
 
 ---
 
-> *“In predictive modeling, accuracy is not just about numbers — it’s about capturing the physics hidden in the data.”*  
-
