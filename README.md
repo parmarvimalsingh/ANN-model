@@ -10,7 +10,7 @@ The work is built entirely in **MATLAB**, focusing on **symbolic modeling, train
 ## 🧠 What’s Inside  
 
 ### Core Data & Model  
-- **Dataset (500 points)** — Compiled from reference papers, covering a wide range of feedstock and operating parameters  
+- **Dataset (353 points)** — Compiled from reference papers, covering a wide range of feedstock and operating parameters  
 - **Inputs (7 parameters)** — Biomass composition & process conditions (temperature, pressure, etc.)  
 - **Outputs** — Predicted syngas composition (H₂, CO, CO₂, CH₄ fractions)  
 
